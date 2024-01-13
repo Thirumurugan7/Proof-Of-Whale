@@ -1,5 +1,4 @@
-# zkGraph default template
-
+# zkGraph for Proof of Whale
 
 ## Usage CLI
 
